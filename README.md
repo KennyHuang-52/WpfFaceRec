@@ -18,6 +18,6 @@ WPF 實作的即時人臉辨識 + 自動白平衡調整工具，使用 Emgu CV �
 
  檔案
 
-- `MainWindow.xaml.cs`：主邏輯（攝影機、人臉、白平衡）
+- `MainWindow.xaml.cs`：攝影機開啟、人臉辨識、白平衡
 - `BitmapSourceConvert`：將 Emgu 的影像轉為 WPF 顯示
 - `AWBGainSlider`：白平衡強度控制（UI 中定義）
