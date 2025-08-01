@@ -1,4 +1,4 @@
-# WpfFaceRec
+ WpfFaceRec
 
 WPF 實作的即時人臉辨識 + 自動白平衡調整工具，使用 Emgu CV 開發。
 
